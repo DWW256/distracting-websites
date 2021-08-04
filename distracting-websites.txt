@@ -49,6 +49,7 @@
 *diffen.com
 *digg.com
 *disney.com
+*distractionware.com
 *distrowatch.com
 *dotesports.com
 *drop.com
@@ -134,6 +135,7 @@
 *recode.net
 *reddit.com
 *reuters.com
+*rockpapershotgun.com
 *rottentomatoes.com
 *slant.co
 *slashdot.org
@@ -151,6 +153,8 @@
 *techradar.com
 *techspot.com
 *ted.com
+*terrycavanaghgames.com
+*terrysfreegameoftheweek.com
 *theguardian.com
 *thenextweb.com
 *theonion.com
