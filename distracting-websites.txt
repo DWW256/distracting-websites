@@ -46,6 +46,7 @@
 *bird.nogafam.es
 *bird.trom.tf
 *birdsite.xanny.family
+*bitmoji.com
 *bleacherreport.com
 *blockchain.info
 *blogger.com
@@ -481,6 +482,7 @@
 *wccftech.com
 *weather.com
 *web.archive.org
+*webtoons.com
 *wegotthiscovered.com
 *wired.com
 *wnd.com
