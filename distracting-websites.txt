@@ -131,6 +131,7 @@
 *firstthings.com
 *fivethirtyeight.com
 *flickr.com
+*flipboard.com
 *fonearena.com
 *foodandwine.com
 *forbes.com
@@ -237,6 +238,7 @@
 *mashable.com
 *mediaite.com
 *medium.com
+*mentalfloss.com
 *metafilter.com
 *metro.co.uk
 *militarytimes.com
@@ -482,6 +484,7 @@
 *wnd.com
 *wondermark.com
 *wonkette.com
+*workingnotworking.com
 *worldtruth.tv
 *wsj.com
 *xbox.com
