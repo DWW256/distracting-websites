@@ -159,6 +159,7 @@
 *gossipcop.com
 *grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion
 *gsmarena.com
+*guru3d.com
 *headphones.com
 *heraldextra.com
 *hexus.net
@@ -441,6 +442,7 @@
 *tumblr.com
 *tvinsider.com
 *tvtropes.org
+*tweaktown.com
 *tweet.lambda.dance
 *twiiit.com
 *twitchy.com
