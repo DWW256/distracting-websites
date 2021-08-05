@@ -35,7 +35,6 @@
 *blockchain.info
 *blogger.com
 *bloomberg.com
-*bloomberg.com
 *boardgamegeek.com
 *boingboing.net
 *break.com
@@ -243,7 +242,6 @@
 *quillette.com
 *quora.com
 *qwantz.com
-*ra.co
 *rasmussenreports.com
 *rateyourmusic.com
 *readtangle.com
@@ -339,6 +337,7 @@
 *washingtonmonthly.com
 *washingtonpost.com
 *washingtontimes.com
+*wattpad.com
 *wccftech.com
 *weather.com
 *web.archive.org
