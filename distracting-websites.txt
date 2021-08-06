@@ -33,6 +33,7 @@
 *bbc.co.uk
 *bbc.com
 *beforeitsnews.com
+*behance.net
 *bgr.com
 *bib.actionsack.com
 *bibliogram.art
@@ -115,6 +116,7 @@
 *distractionware.com
 *distrowatch.com
 *dotesports.com
+*dribbble.com
 *drop.com
 *ebay.com
 *economist.com
@@ -469,6 +471,7 @@
 *vid.puffyan.us
 *videocardz.com
 *vimeo.com
+*vk.com
 *voanews.com
 *vogue.com
 *vox.com
