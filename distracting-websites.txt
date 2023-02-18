@@ -218,6 +218,7 @@
 *invidious.zapashcanon.fr
 *invidious.zee.li
 *iogames.space
+*itch.io
 *itsfoss.com
 *iwgu3cv7ywf3gssed5iqtavmrlszgsxazkmwwnt4h2kdait75thdyrqd.onion
 *jacobinmag.com
@@ -248,6 +249,7 @@
 *militarytimes.com
 *minecraft.net
 *miniclip.com
+*miraheze.org
 *mirror.co.uk
 *mix.com
 *mlb.com
