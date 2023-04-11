@@ -150,6 +150,7 @@
 *etsy.com
 *expressional.social
 *extremetech.com
+*facebook.com
 *faf.photos
 *fair.org
 *fandom.com
@@ -164,6 +165,7 @@
 *fivethirtyeight.com
 *flickr.com
 *flipboard.com
+*floatplane.com
 *fonearena.com
 *foodandwine.com
 *forbes.com
@@ -596,6 +598,7 @@
 *tweaktown.com
 *tweet.lambda.dance
 *twiiit.com
+*twitch.tv
 *twitchy.com
 *twitit.gq
 *twitr.gq
