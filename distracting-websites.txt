@@ -69,6 +69,8 @@
 *cbsnews.com
 *cbssports.com
 *cc.com
+*character.ai
+*chat-gpt.org
 *christianitytoday.com
 *clutchpoints.com
 *cnbc.com
@@ -175,6 +177,7 @@
 *howtogeek.com
 *hpniueoejy4opn7bc4ftgazyqjoeqwlvh2uiku2xqku6zpoa4bf5ruid.onion
 *huffingtonpost.com
+*huggingface.co
 *hulu.com
 *hydrogenaud.io
 *i23nv6w3juvzlw32xzoxcqzktegd4i4fu3nmnc2ewv4ggiu4ledwklad.onion
@@ -246,6 +249,7 @@
 *mentalfloss.com
 *metafilter.com
 *metro.co.uk
+*midjourney.com
 *militarytimes.com
 *minecraft.net
 *miniclip.com
@@ -329,6 +333,7 @@
 *oann.com
 *occupydemocrats.com
 *omgubuntu.co.uk
+*openai.com
 *ozy.com
 *palmerreport.com
 *paperio.com
@@ -395,6 +400,7 @@
 *sportskeeda.com
 *spotify.com
 *sputniknews.com
+*stablediffusionweb.com
 *stripes.com
 *talkingpointsmemo.com
 *tanx.io
@@ -505,7 +511,6 @@
 *youtube.com
 *yt.cyberhost.uk
 *ytb.trom.tf
-*ytprivate.com
 *ytprivate.com
 *zdnet.com
 *zombs.io
