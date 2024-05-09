@@ -720,6 +720,7 @@
 *.zdnet.com
 *.zombs.io
 *.zoopla.co.uk
++facebook.com/messages
 0xdd.org.ru
 26oq3gioiwcmfojub37nz5gzbkdiqp7fue5kvye7d4txv4ny6fb4wwid.onion
 3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion
