@@ -114,6 +114,7 @@
 *.cracked.com
 *.crackle.com
 *.craigslist.org
+*.creativebloq.com
 *.creativereview.co.uk
 *.crinacle.com
 *.crunchyroll.com
@@ -151,6 +152,7 @@
 *.donky.social
 *.dotesports.com
 *.douyin.com
+*.dpreview.com
 *.dribbble.com
 *.drop.com
 *.ebay.com
@@ -472,6 +474,7 @@
 *.peacocktv.com
 *.persians.life
 *.persiansmastodon.com
+*.petapixel.com
 *.phonearena.com
 *.phys.org
 *.pi.dead.guru
@@ -549,6 +552,7 @@
 *.salon.com
 *.screencrush.com
 *.screenrant.com
+*.seventeen.com
 *.slant.co
 *.slashdot.org
 *.slate.com
@@ -839,6 +843,7 @@ cr8r.gg
 cracked.com
 crackle.com
 craigslist.org
+creativebloq.com
 creativereview.co.uk
 crinacle.com
 crunchyroll.com
@@ -876,6 +881,7 @@ distrowatch.com
 donky.social
 dotesports.com
 douyin.com
+dpreview.com
 dribbble.com
 drop.com
 ebay.com
@@ -1197,6 +1203,7 @@ pcpartpicker.com
 peacocktv.com
 persians.life
 persiansmastodon.com
+petapixel.com
 phonearena.com
 phys.org
 pi.dead.guru
@@ -1274,6 +1281,7 @@ rt.com
 salon.com
 screencrush.com
 screenrant.com
+seventeen.com
 slant.co
 slashdot.org
 slate.com
