@@ -701,6 +701,7 @@
 *.web.archive.org
 *.webtoons.com
 *.wegotthiscovered.com
+*.wikipedia.org
 *.wired.com
 *.wnd.com
 *.wondermark.com
@@ -1430,6 +1431,7 @@ weather.com
 web.archive.org
 webtoons.com
 wegotthiscovered.com
+wikipedia.org
 wired.com
 wnd.com
 wondermark.com
