@@ -21,6 +21,7 @@
 *.allmusic.com
 *.alternet.org
 *.amazon.com
+*.amazon.co.uk
 *.americanthinker.com
 *.anandtech.com
 *.androidauthority
@@ -623,6 +624,8 @@
 *.thenextweb.com
 *.theonion.com
 *.therealnews.com
+*.theregister.com
+*.theregister.co.uk
 *.thesandpaper.net
 *.thesun.co.uk
 *.thesundaytimes.co.uk
@@ -751,6 +754,7 @@ aljazeera.com
 allmusic.com
 alternet.org
 amazon.com
+amazon.co.uk
 americanthinker.com
 anandtech.com
 androidauthority
@@ -1353,6 +1357,8 @@ thenation.com
 thenextweb.com
 theonion.com
 therealnews.com
+theregister.com
+theregister.co.uk
 thesandpaper.net
 thesun.co.uk
 thesundaytimes.co.uk
