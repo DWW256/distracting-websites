@@ -510,6 +510,7 @@
 *.poal.co
 *.pointieststick.com
 *.pointlesssites.com
+*.poki.com
 *.politico.com
 *.politicususa.com
 *.popsci.com
@@ -1243,6 +1244,7 @@ playstation.com
 poal.co
 pointieststick.com
 pointlesssites.com
+poki.com
 politico.com
 politicususa.com
 popsci.com
