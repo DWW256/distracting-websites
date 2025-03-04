@@ -128,6 +128,7 @@
 *.dailydot.com
 *.dailykos.com
 *.dailymail.co.uk
+*.dailymotion.com
 *.dailytelegraph.com.au
 *.dailywire.com
 *.dartreview.com
@@ -862,6 +863,7 @@ dailycaller.com
 dailydot.com
 dailykos.com
 dailymail.co.uk
+dailymotion.com
 dailytelegraph.com.au
 dailywire.com
 dartreview.com
