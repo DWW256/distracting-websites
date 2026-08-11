@@ -24,8 +24,9 @@
 *.amazon.com
 *.americanthinker.com
 *.anandtech.com
-*.androidauthority
+*.androidauthority.com
 *.androidpit.com
+*.androidpolice.com
 *.animalplanet.com
 *.apnews.com
 *.apple.com
@@ -520,6 +521,7 @@
 *.playcanv.as
 *.playstation.com
 *.poal.co
+*.pocketnow.com
 *.pointieststick.com
 *.pointlesssites.com
 *.poki.com
@@ -711,7 +713,6 @@
 *.vrv.co
 *.w6ijuptxiku4xpnnaetxvnkc5vqcdu7mgns2u77qefoixi63vbvnpnqd.onion
 *.waitbutwhy.com
-*.waitbutwhy.com
 *.washingtonexaminer.com
 *.washingtonmonthly.com
 *.washingtonpost.com
@@ -735,6 +736,8 @@
 *.x.com
 *.x0r.be
 *.xbox.com
+*.xda-developers.com
+*.xdaforums.com
 *.xkcd.com
 *.xpwo2md4lgxs3hvroqi6wg33h6a3pv47euax6km3alke7letglieokyd.onion
 *.y.com.cm
@@ -777,8 +780,9 @@ amazon.co.uk
 amazon.com
 americanthinker.com
 anandtech.com
-androidauthority
+androidauthority.com
 androidpit.com
+androidpolice.com
 animalplanet.com
 apnews.com
 apple.com
@@ -1275,6 +1279,7 @@ pjmedia.com
 playcanv.as
 playstation.com
 poal.co
+pocketnow.com
 pointieststick.com
 pointlesssites.com
 poki.com
@@ -1466,7 +1471,6 @@ vox.com
 vrv.co
 w6ijuptxiku4xpnnaetxvnkc5vqcdu7mgns2u77qefoixi63vbvnpnqd.onion
 waitbutwhy.com
-waitbutwhy.com
 washingtonexaminer.com
 washingtonmonthly.com
 washingtonpost.com
@@ -1490,6 +1494,8 @@ wsj.com
 x.com
 x0r.be
 xbox.com
+xda-developers.com
+xdaforums.com
 xkcd.com
 xpwo2md4lgxs3hvroqi6wg33h6a3pv47euax6km3alke7letglieokyd.onion
 y.com.cm
