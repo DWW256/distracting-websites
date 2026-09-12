@@ -339,6 +339,7 @@ lemmy.schuerz.at
 lemmy.services.coupou.fr
 lemmy.toot.pt
 lemmygra.ml
+lesswrong.com
 libreddit.esmail5pdn24shtvieloeedh7ehz3nrwcdivnfhfcedl7gf4kwddhkqd.onion
 libretooth.gr
 life.com
