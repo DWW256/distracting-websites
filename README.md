@@ -4,7 +4,7 @@ A list of ALL the distracting websites.  Now blocking **790** distinct websites!
 
 This repository contains a list of distracting websites, primarily for use in the LeechBlock NG extension available for most major browsers.
 
-My goal is to collect a list of every distracting website on the internet.  With hmpg.net and zombo.com both gone, there is nothing left to love online.
+My goal is to collect a list of every distracting website on the internet.  With hmpg.net and zombo.com both lost to time, there is nothing left to love online.
 
 The internet should be a boring place where you go to do work, not a place where you go to waste time!  If you're going to do fun things on the internet, you should try to do them with other people so that you're more accountable for your time and don't regret how you've used it later on.
 
@@ -12,7 +12,14 @@ The internet should be a boring place where you go to do work, not a place where
 
 To qualify the soapboxing above: a lot of the sites in this list are legitimately useful!  I highly recommend setting a delay timer before accessing them, rather than blocking them outright.
 
-To use this list, simply paste it into LeechBlock's options in the "**Enter the domain names of sites to block**" box, and configure the block/delay settings as you like.  Next---and this is important---go to the **General** tab and check the box labeled "**Block all subdomains (not just www)**."
+Now, the instructions:
+
+1. Paste the list into LeechBlock's options in the "**Enter the domain names of sites to block**" box
+2. Configure the block/delay settings as you like.  My recommendation:
+	+ Set the "**page to show instead**" to the delaying page by clicking the button labeled "**Delaying Page**".
+	+ Uncheck "**Block only first accessed page of \[site/block set\] when delaying/password page is used**"
+	+ Set "**Delay access to sites**" to 30--90 seconds---however long it takes you to stop feeling anxious waiting for the page to load.
+3. Important: go to the **General** tab and check the box labeled "**Block all subdomains (not just www)**."
 
 ## Disclaimer
 
