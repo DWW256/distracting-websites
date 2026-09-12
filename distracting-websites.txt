@@ -12,6 +12,7 @@ aap.com.au
 abc.go.com
 abcnews.go.com
 abqjournal.com
+achewood.com
 adelaidenow.com.au
 adultswim.com
 afp.com
@@ -31,6 +32,7 @@ androidpolice.com
 animalplanet.com
 apnews.com
 apple.com
+archiveofourown.org
 arstechnica.com
 asofterworld.com
 astralcodexten.com
@@ -74,6 +76,7 @@ bloomberg.com
 blorbo.social
 boardgamegeek.com
 bodyandsoul.com
+bohemiandrive.com
 boingboing.net
 bolha.social
 bordermail.com.au
@@ -94,6 +97,7 @@ camp.smolnet.org
 canberratimes.com.au
 cartonnetworkhq.com
 cartoonnetwork.com
+catandgirl.com
 cbn.com
 cbs.com
 cbsnews.com
@@ -152,6 +156,7 @@ det.social
 deviantart.com
 dexerto.com
 diep.io
+dieselsweeties.com
 diffen.com
 digg.com
 discovery.com
@@ -165,8 +170,11 @@ donky.social
 dotesports.com
 douyin.com
 dpreview.com
+dreamwidth.org
+dresdencodak.com
 dribbble.com
 drop.com
+dumbingofage.com
 economist.com
 eddrit.com
 elle.com
@@ -185,8 +193,10 @@ facebook.com
 factiva.com
 faf.photos
 fair.org
+falseknees.com
 fandom.com
 fandom.ink
+fanlore.org
 fark.com
 feddit.de
 feddit.it
@@ -236,7 +246,10 @@ gram.social
 group.lt
 grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion
 gsmarena.com
+gunnerkrigg.com
+gunshowcomic.com
 guru3d.com
+harkavagrant.com
 headphones.com
 heraldextra.com
 heraldsun.com.au
@@ -350,6 +363,7 @@ liminal.southfox.me
 linkage.ds8.zone
 links.hackliberty.org
 links.roobre.es
+livejournal.com
 liveleak.com
 livescience.com
 lm.korako.me
@@ -366,6 +380,7 @@ malaymail.com
 maly.io
 mander.xyz
 marketwatch.com
+marriedtothesea.com
 mas.to
 mashable.com
 masr.social
@@ -404,9 +419,12 @@ motherjones.com
 mountains.social
 msn.com
 msnbc.com
+mspaintadventures.com
+mspfa.com
 mstdn.dk
 mstdn.social
 narratively.com
+nataliedee.com
 natesilver.net
 natgeotv.com
 nationalgeographic.com
@@ -416,6 +434,7 @@ nba.com
 nbc.com
 nbcnews.com
 ndtv.com
+nedroid.com
 neowin.net
 netflix.com
 newgrounds.com
@@ -474,6 +493,7 @@ nitter.vxempire.xyz
 nitter7bryz3jv7e3uekphigvmoyoem4al3fynerxkj22dmoxoq553qd.onion
 nitterrrs6bbcba2bxjviwxzzapkhuuelljtig2ku2rxasweckxxxhid.onion
 nixorigin.one
+nonadventures.com
 norcal.social
 notyoutube.org
 npf37k3mtzwxreiw52ccs5ay4e6qt2fkcs2ndieurdyn2cuzzsfyfvid.onion
@@ -485,6 +505,7 @@ nypost.com
 nytimes.com
 oann.com
 occupydemocrats.com
+octopuspie.com
 odysee.com
 oglaf.com
 ohai.social
@@ -504,6 +525,7 @@ pbfcomics.com
 pbs.org
 pcpartpicker.com
 peacocktv.com
+penny-arcade.com
 persians.life
 persiansmastodon.com
 petapixel.com
@@ -589,6 +611,8 @@ rrrrthats5rs.com
 rt.com
 safereddit.com
 salon.com
+samandfuzzy.com
+scarygoround.com
 screencrush.com
 screenrant.com
 seventeen.com
@@ -631,6 +655,7 @@ substack.com
 sundaystartimes.co.nz
 sunherald.com.au
 suntimes.com
+swanboy.com
 swisstoots.ch
 talkingpointsmemo.com
 tanx.io
@@ -701,6 +726,7 @@ toot.community
 toot.funami.tech
 toot.io
 toot.site
+toothpastefordinner.com
 tooting.ch
 townhall.com
 tpointuk.co.uk
@@ -718,6 +744,7 @@ tvtropes.org
 tweaktown.com
 tweet.lambda.dance
 twiiit.com
+twingalaxies.com
 twitch.tv
 twitchy.com
 twitit.gq
@@ -761,6 +788,7 @@ weather.com
 web.archive.org
 webtoons.com
 wegotthiscovered.com
+wigucomics.com
 wikipedia.org
 wilr7fk4bx3lnubdhxgwxg37oubmkyiqkamgfoivrz5ldtjwyitq.b32.i2p
 wired.com
