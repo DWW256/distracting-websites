@@ -1,6 +1,6 @@
 # distracting-websites
 
-A list of ALL the distracting websites.  Now blocking **790** distinct websites!
+A list of ALL the distracting websites.  Now blocking **791** distinct websites!
 
 This repository contains a list of distracting websites, primarily for use in the LeechBlock NG extension available for most major browsers.
 
