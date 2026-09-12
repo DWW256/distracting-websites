@@ -177,6 +177,7 @@ drop.com
 dumbingofage.com
 economist.com
 eddrit.com
+edramatica.com
 elle.com
 engadget.com
 eorzea.photos
@@ -239,6 +240,7 @@ ghacks.net
 gigaom.com
 gizmodo.com
 glitchwave.com
+goatse.cx
 gocomics.com
 goldderby.com
 gossipcop.com
@@ -755,6 +757,8 @@ twitr.gq
 twitter.censors.us
 twitter.com
 u6ikd6zndl3c4dsdq4mmujpntgeevdk5qzkfb57r4tnfeccrn2qa.b32.i2p
+uncyclopedia.co
+uncyclopedia.org
 underconsideration.com
 universeodon.com
 unsplash.com
