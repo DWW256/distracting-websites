@@ -2,6 +2,8 @@
 
 A list of ALL the distracting websites.  Now blocking **826** distinct websites!
 
+*The following list is __incomplete__.  You can help by expanding it.  See the **"How to Contribute"** section below.*
+
 This repository contains a list of distracting websites, primarily for use in the LeechBlock NG extension available for most major browsers.
 
 My goal is to collect a list of every distracting website on the internet, with the notable exception of [hmpg.net](https://hmpg.net).  Go visit it if you haven't already.
