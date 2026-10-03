@@ -31,7 +31,6 @@ androidpit.com
 androidpolice.com
 animalplanet.com
 apnews.com
-apple.com
 archiveofourown.org
 arstechnica.com
 asofterworld.com
@@ -105,10 +104,8 @@ cbssports.com
 cc.com
 character.ai
 chat-gpt.org
-chatgpt.com
 christianitytoday.com
 cinemos.com
-claude.ai
 clutchpoints.com
 cnbc.com
 cnet.com
@@ -233,7 +230,6 @@ gazette.com
 gearspace.com
 geekdom.social
 geektyrant.com
-gemini.google.com
 geohashing.site
 getpocket.com
 ghacks.net
@@ -517,7 +513,6 @@ ojwp2gtj7dq7scd7gnbac6wp53tklgsicteabrnx2pr7zai64wriiaad.onion
 omegle.com
 omgubuntu.co.uk
 opalstack.social
-openai.com
 opensea.io
 ozy.com
 pagesix.com
