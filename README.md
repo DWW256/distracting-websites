@@ -1,6 +1,6 @@
 # distracting-websites
 
-A list of ALL the distracting websites.  Now blocking **826** distinct websites!
+A list of ALL the distracting websites.  Now blocking **821** distinct websites!
 
 *The following list is __incomplete__.  You can help by expanding it.  See the **"How to Contribute"** section below.*
 
