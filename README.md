@@ -20,7 +20,7 @@ Now, the instructions:
 2. Configure the block/delay settings as you like.  My recommendation:
 	+ Set the "**page to show instead**" to the delaying page by clicking the button labeled "**Delaying Page**".
 	+ Uncheck "**Block only first accessed page of \[site/block set\] when delaying/password page is used**"
-	+ Set "**Delay access to sites**" to 30--90 seconds---however long it takes you to stop feeling anxious waiting for the page to load.
+	+ Set "**Delay access to sites**" to 30–120 seconds—however long it takes you to stop feeling anxious waiting for the page to load.
 3. Important: go to the **General** tab and check the box labeled "**Block all subdomains (not just www)**."
 
 ## Disclaimer
