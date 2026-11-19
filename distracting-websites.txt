@@ -183,6 +183,7 @@ espn.com
 esq.social
 esquire.com
 etsy.com
+evades.io
 evoke.ie
 expressional.social
 extra.ie
@@ -330,6 +331,7 @@ kick.com
 kik.com
 kiwifarms.net
 knowyourmeme.com
+koboldai.net
 kongregate.com
 kotaku.com
 latimes.com
@@ -362,6 +364,7 @@ liminal.southfox.me
 linkage.ds8.zone
 links.hackliberty.org
 links.roobre.es
+lite.koboldai.net
 livejournal.com
 liveleak.com
 livescience.com
@@ -414,6 +417,7 @@ mirror.co.uk
 mix.com
 mlb.com
 monero.house
+mope.io
 motherjones.com
 mountains.social
 msn.com
